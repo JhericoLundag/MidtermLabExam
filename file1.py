@@ -1,5 +1,5 @@
 ##file1 codes
-
+x=10
 def factorial(n):
  if n == 0:
      return 1
